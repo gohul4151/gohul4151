@@ -6,13 +6,10 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/%3CGS%2F%3E-Portfolio-00d4ff?style=for-the-badge&labelColor=0a0a0f)](https://portfolio-blond-five-94.vercel.app/)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7b61ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0f)](https://www.linkedin.com/in/gohul-s/)
-&nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-00d4ff?style=for-the-badge&logo=leetcode&logoColor=0a0a0f&labelColor=0a0a0f)](https://leetcode.com/u/gohul_s/)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-ff6b9d?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0f)](mailto:gohul4151@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-blond-five-94.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gohul-s/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/gohul_s/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gohul4151@gmail.com)
 
 </div>
 
