@@ -108,10 +108,10 @@
 
 <div align="center">
 
-*"First, solve the problem. Then, write the code."*
+*"Code is not just what I write — it's how I think."*
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=gohul4151&color=00d4ff&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=gohul4151&color=00d4ff&style=for-the-badge&label=Profile+Views)
 
 </div>
