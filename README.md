@@ -87,6 +87,10 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=gohul4151&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=00d4ff&icon_color=7b61ff&text_color=c9d1d9&bg_color=0d1117&ring_color=00d4ff" height="180"/>
 
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=gohul4151&color=00d4ff&style=flat-square&label=Profile+Views" />
+
 </div>
 
 ---
@@ -109,11 +113,5 @@
 <div align="center">
 
 *"Code is not just what I write — it's how I think."*
-
-<br/>
-
-<a href="https://github.com/gohul4151">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgohul4151&count_bg=%2300D4FF&title_bg=%237B61FF&icon=github&icon_color=%23FFFFFF&title=Visitors&edge_flat=false" alt="Visitors" />
-</a>
 
 </div>
