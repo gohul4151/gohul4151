@@ -112,6 +112,8 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=gohul4151&color=00d4ff&style=for-the-badge&label=Profile+Views)
+<a href="https://github.com/gohul4151">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgohul4151&count_bg=%2300D4FF&title_bg=%237B61FF&icon=github&icon_color=%23FFFFFF&title=Visitors&edge_flat=false" alt="Visitors" />
+</a>
 
 </div>
