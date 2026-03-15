@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gohul-s/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/gohul_s/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-blond-five-94.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gohul4151@gmail.com)
 
 </div>
@@ -81,9 +81,15 @@
 
 <div align="center">
 
-![Gohul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gohul4151&show_icons=true&theme=tokyonight&hide_border=true)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gohul4151&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=gohul4151&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=contribs" height="160" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gohul4151&layout=compact&theme=tokyonight&hide_border=true&langs_count=1&hide=python,javascript,html,css,java,typescript,shell,makefile,cmake" height="160" />
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=gohul4151&theme=tokyonight&hide_border=true)
 
 </div>
 
