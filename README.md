@@ -85,7 +85,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gohul4151&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&icon_color=00d4ff&title_color=00d4ff&text_color=a0a0c0&bg_color=0a0a0f" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=gohul4151&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=00d4ff&icon_color=7b61ff&text_color=c9d1d9&bg_color=0d1117&ring_color=00d4ff" height="180"/>
 
 </div>
 
@@ -108,8 +108,10 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=gohul4151&color=00d4ff&style=flat-square&label=Profile+Views)
+*"First, solve the problem. Then, write the code."*
 
-*Designed & Built by* **Gohul S**
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=gohul4151&color=00d4ff&style=flat-square&label=Profile+Views)
 
 </div>
